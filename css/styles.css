@@ -199,8 +199,15 @@ body {
     letter-spacing: .1em;
     text-transform: uppercase;
   }
+
+  /* Home page */
   .container .jumbotron {
 		margin-top: 30px;
 		padding: 0;
 	}
+	#menu-tile, #specials-tile {
+		width: 360px;
+		margin: 0 auto 15px;
+	}
 }
+
