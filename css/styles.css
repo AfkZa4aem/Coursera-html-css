@@ -188,6 +188,10 @@ body {
 }
 /* END MENU CATEGORIES PAGE */
 
+/* SINGLE CATEGORY */
+
+/* END SINGLE CATEGORY */
+
 /* Large device only */
 @media (min-width: 1200px) {
 	.container .jumbotron {
